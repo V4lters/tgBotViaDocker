@@ -40,12 +40,6 @@ Just include your Telegram API Token and Chat ID in the script and deploy the fo
 
 Feel free to contribute to this project. Fork the repository, make your changes, and create a pull request.
 
-## License
-
-MIT License. See [LICENSE](LICENSE) for more information.
-
 ---
-
-For more details, issues, or questions, please reach out to `github::safroalex`.
 
 Turn web input into instant Telegram notifications with TeleForm!
